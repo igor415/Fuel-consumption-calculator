@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.varivoda.igor.kalkulatorpotronjegoriva.MainActivity">
+    <item
+        android:id="@+id/podijeli"
+        android:title="@string/podijeli_res"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_share_black_24dp"/>
+    <item
+        android:icon="@drawable/ic_more"
+        app:showAsAction="always"
+        android:title="@string/vi_e_res">
+        <menu>
+            <item
+                android:id="@+id/action_settings"
+                android:orderInCategory="100"
+                android:title="@string/ocijeni_app_res"
+                android:icon="@drawable/ic_star"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/ja"
+                android:orderInCategory="100"
+                android:title="@string/moje_ostale_aplikacije_res"
+                android:icon="@drawable/ic_erte"
+                app:showAsAction="never" />
+        </menu>
+    </item>
+</menu>

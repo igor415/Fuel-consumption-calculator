@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Kalkulator potrošnje goriva</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="izracunaj_res">Izračunaj</string>
+    <string name="slika_broj_litara_res">slika_broj_litara</string>
+    <string name="unesite_broj_litara_res">Unesite broj litara:</string>
+    <string name="kilometraza_slika_res">kilometraza_slika</string>
+    <string name="unesite_prije_enu_kilometra_u_res">Unesite prijeđenu kilometražu:</string>
+    <string name="cijena_litre_slika_res">cijena_litre_slika</string>
+    <string name="unesite_cijenu_litre_goriva_opcionalno_res">Unesite cijenu litre goriva (opcionalno):</string>
+    <string name="prosjek_potrosnje_slika_res">prosjek_potrosnje_slika</string>
+    <string name="udaljenost_slika_res">udaljenost_slika</string>
+    <string name="unesite_prosjek_potro_nje_res">Unesite prosjek potrošnje:</string>
+    <string name="unesite_udaljenost_do_cilja_res">Unesite udaljenost do cilja:</string>
+    <string name="graf_slika_res">graf_slika</string>
+    <string name="init_text_res">init_text</string>
+    <string name="podijeli_res">podijeli</string>
+    <string name="vi_e_res">više</string>
+    <string name="ocijeni_app_res">Ocijeni app</string>
+    <string name="moje_ostale_aplikacije_res">Moje ostale aplikacije</string>
+    <string name="error_msg">"Morate ispuniti ovo polje"</string>
+</resources>
